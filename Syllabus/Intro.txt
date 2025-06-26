@@ -1,0 +1,5 @@
+Security Operations                   33%     
+Vulnerability Management              30%
+Incident Response and Management      20%
+Reporting and Communication           17%
+Total                                 100%
